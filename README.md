@@ -10,4 +10,4 @@ Currently working in
   6. Ai agents (Kotlin Koog)
 
 
-![My Skills](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
+![My Skills](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Graphic+Designer)
